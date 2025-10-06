@@ -30,3 +30,6 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
  
  – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
+## Tools used
+
+**Tableau**
