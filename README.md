@@ -33,3 +33,4 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 ## Tools used
 
 **Tableau**
+https://public.tableau.com/app/profile/karan.chauhan3603/viz/Book1_17597242623300/Dashboard1?publish=yes
